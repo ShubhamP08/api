@@ -2,49 +2,49 @@
   "categories": [
     {
       "id": 1,
-      "nama": "Chair"
+      "nama": "Kursi"
     },
     {
       "id": 2,
-      "nama": "Table"
+      "nama": "Meja"
     },
     {
       "id": 3,
-      "nama": "Cupboard"
+      "nama": "Lemari"
     }
   ],
   "products": [
     {
       "id": 1,
-      "code": "I-01",
+      "kode": "I-01",
       "nama": "White Aesthetic Chair",
       "harga": 200000,
       "is_ready": true,
       "gambar": "https://iili.io/t2fQG2.png",
       "tagline": "Sit in comfort with a White Aesthetic Chair",
-      "description": "The White Aesthetic Chair is a sleek, modern design that would look great in any modern home. The white, curved seat is covered in soft, velvety fabric that is both durable and easy to clean. The Chair is also comfortable, with a soft backrest and headrest. It is designed to be lightweight and easy to move around, making it perfect for any room in the house.",
+      "description": "The White Aesthetic Chair is a sleek, modern design that would look great in any modern home. The white, curved seat is covered in soft, velvety fabric that is both durable and easy to clean. The chair is also comfortable, with a soft backrest and headrest. It is designed to be lightweight and easy to move around, making it perfect for any room in the house.",
       "category": {
         "id": 1,
-        "nama": "Chair"
+        "nama": "Kursi"
       }
     },
     {
       "id": 2,
-      "code": "I-02",
+      "kode": "I-02",
       "nama": "Minimalist Lounge Chair",
       "harga": 150000,
       "is_ready": true,
       "gambar": "https://iili.io/t2KCKP.png",
       "tagline": "Comfort and convenience, now in one package.",
-      "description": "The Chair is a bright and cheerful red, with a white trim. It is made of lightweight metal and plastic, with a seat and backrest. The seat is curved and the backrest is slightly curved, with no armrests. The Chair is very lightweight and portable, and it can be folded up for easy storage.",
+      "description": "The chair is a bright and cheerful red, with a white trim. It is made of lightweight metal and plastic, with a seat and backrest. The seat is curved and the backrest is slightly curved, with no armrests. The chair is very lightweight and portable, and it can be folded up for easy storage.",
       "category": {
         "id": 1,
-        "nama": "Chair"
+        "nama": "Kursi"
       }
     },
     {
       "id": 3,
-      "code": "I-03",
+      "kode": "I-03",
       "nama": "Sofa Empuk Banget",
       "harga": 335000,
       "is_ready": true,
@@ -53,40 +53,40 @@
       "description": "This durable sofa is made of faux leather, and can be ordered in either a brown or black color. It has a modern, yet cozy design, and has an ergonomic design that makes it ideal for lounging. The sofa has a reclining back, and is upholstered with a plush fabric. The reclining back can be reclined up to 125 degrees, and the sofa also has a headrest that can be adjusted to your preferred height. The sofa is also built with a durable frame that will last for years to come.",
       "category": {
         "id": 1,
-        "nama": "Chair"
+        "nama": "Kursi"
       }
     },
     {
       "id": 4,
-      "code": "I-04",
+      "kode": "I-04",
       "nama": "Exclusive Chair Brown",
       "harga": 250000,
       "is_ready": true,
       "gambar": "https://iili.io/t2qUPV.png",
-      "tagline": "Brown is not just a Chair, he's a cool Chair",
-      "description": "This brown recliner is the perfect place to relax and watch your favorite TV show. The recliner has a 360 degree swivel, meaning you can get the perfect angle no matter where you are sitting. The Chair is made of a durable microfiber that is easy to clean and resistant to stains. With an armless design, this Chair is a perfect fit for your home.",
+      "tagline": "Brown is not just a chair, he's a cool chair",
+      "description": "This brown recliner is the perfect place to relax and watch your favorite TV show. The recliner has a 360 degree swivel, meaning you can get the perfect angle no matter where you are sitting. The chair is made of a durable microfiber that is easy to clean and resistant to stains. With an armless design, this chair is a perfect fit for your home.",
       "category": {
         "id": 1,
-        "nama": "Chair"
+        "nama": "Kursi"
       }
     },
     {
       "id": 5,
-      "code": "I-05",
+      "kode": "I-05",
       "nama": "Minimalist Wood Chair",
       "harga": 355000,
       "is_ready": true,
       "gambar": "https://iili.io/t2BoU7.png",
-      "tagline": "The Chair that goes with everything",
-      "description": "Designers have long been attracted to the elegance of wood. Minimalist Wood Chair embraces this quality by providing a sleek and timeless piece that is both comfortable and beautiful. The Chair's clean lines provide a simple and inviting space for rest and relaxation. The Chair is crafted from sustainable beech wood, which provides a warm, rich texture. The Chair's durability is ensured by its heavy-duty steel frame. Minimalist Wood Chair will be a perfect addition to any space, whether it be an office, living room, or bedroom.",
+      "tagline": "The chair that goes with everything",
+      "description": "Designers have long been attracted to the elegance of wood. Minimalist Wood Chair embraces this quality by providing a sleek and timeless piece that is both comfortable and beautiful. The chair's clean lines provide a simple and inviting space for rest and relaxation. The chair is crafted from sustainable beech wood, which provides a warm, rich texture. The chair's durability is ensured by its heavy-duty steel frame. Minimalist Wood Chair will be a perfect addition to any space, whether it be an office, living room, or bedroom.",
       "category": {
         "id": 1,
-        "nama": "Chair"
+        "nama": "Kursi"
       }
     },
     {
       "id": 6,
-      "code": "I-06",
+      "kode": "I-06",
       "nama": "White Marble Table",
       "harga": 450000,
       "is_ready": true,
@@ -95,12 +95,12 @@
       "description": "White Marble Table Elegant and versatile, this table is made of premium marble with a white marble finish. With a timeless look, this table will be a centerpiece in any room. This table is a beautiful, yet functional piece of furniture that will be a great addition to any room.",
       "category": {
         "id": 2,
-        "nama": "Table"
+        "nama": "Meja"
       }
     },
     {
       "id": 7,
-      "code": "I-07",
+      "kode": "I-07",
       "nama": "Minimalist Work Table",
       "harga": 250000,
       "is_ready": true,
@@ -109,12 +109,12 @@
       "description": "With a sleek and modern design, this work table is perfect for any office or home office. The table features a durable metal frame with a sleek, low-profile top and a black frame. The table is easy to assemble and is perfect for any workspace.",
       "category": {
         "id": 2,
-        "nama": "Table"
+        "nama": "Meja"
       }
     },
     {
       "id": 8,
-      "code": "I-08",
+      "kode": "I-08",
       "nama": "Aesthetic Arabian Table",
       "harga": 800000,
       "is_ready": true,
@@ -123,12 +123,12 @@
       "description": "Aesthetic Arabian Table The Aesthetic Arabian Table is a modern-day twist on the traditional Middle Eastern table. Featuring a high-quality tempered glass top, this table is perfect for use in a modern living room or as a side table. With a sleek black frame and decorative glass-topped tabletop, this table offers a great space for display and for storage. It also features a storage drawer for keeping remotes, books, and other small items. This table is made of tempered glass, so it is durable and can withstand any bumps or knocks. It is easy to clean and maintain, and its elegant design is sure to make it the centerpiece of any room.",
       "category": {
         "id": 2,
-        "nama": "Table"
+        "nama": "Meja"
       }
     },
     {
       "id": 9,
-      "code": "I-09",
+      "kode": "I-09",
       "nama": "White Desk Table",
       "harga": 650000,
       "is_ready": true,
@@ -137,12 +137,12 @@
       "description": "The modern white desk table is perfect for a small home office. The white table features a curved shape and sleek lines. The table top is a smooth surface for typing and organizing, and it has a shelf for storage. The shelf is great for storing books, office supplies, and other items. The table has a minimalist design that complements any style of furniture. The desk is perfect for any room, and it can be used as a workspace or as a dining table.",
       "category": {
         "id": 2,
-        "nama": "Table"
+        "nama": "Meja"
       }
     },
     {
       "id": 10,
-      "code": "I-10",
+      "kode": "I-10",
       "nama": "Minimalist Wood Table",
       "harga": 485000,
       "is_ready": true,
@@ -151,12 +151,12 @@
       "description": "This is a beautifully crafted table made from sustainable, plantation-grown wood. It features a modern design that can be used in any space. The wood is finished with a natural varnish, which will protect the wood and provide a warm, inviting glow.",
       "category": {
         "id": 2,
-        "nama": "Table"
+        "nama": "Meja"
       }
     },
     {
       "id": 11,
-      "code": "I-11",
+      "kode": "I-11",
       "nama": "White Wood wardrobe",
       "harga": 1500000,
       "is_ready": true,
@@ -165,12 +165,12 @@
       "description": "White Wood wardrobe Do you have a place to store your clothes but need a place to put your other items? The White Wood wardrobe is the perfect solution. It's the perfect size for all of your clothes and with the 5 drawers, you'll have plenty of space for all of your other items.",
       "category": {
         "id": 3,
-        "nama": "Cupboard"
+        "nama": "Lemari"
       }
     },
     {
       "id": 12,
-      "code": "I-12",
+      "kode": "I-12",
       "nama": "Djati Wood Wardrobe",
       "harga": 2000000,
       "is_ready": true,
@@ -179,12 +179,12 @@
       "description": "The Djati Wood Wardrobe is a modern, chic, and functional storage solution for any bedroom. It has six spacious drawers and two shelves for storage. The drawers are made of birch veneer and the shelves are made of MDF. The Djati Wood Wardrobe is available in two colors: black and white.",
       "category": {
         "id": 3,
-        "nama": "Cupboard"
+        "nama": "Lemari"
       }
     },
     {
       "id": 13,
-      "code": "I-13",
+      "kode": "I-13",
       "nama": "Aesthetic Minimalist Wardrobe",
       "harga": 3500000,
       "is_ready": true,
@@ -193,10 +193,10 @@
       "description": "Aesthetic Minimalist Wardrobe Be a minimalist with your wardrobe! With this pack, you will receive a variety of tops, bottoms, and shoes. This pack is perfect for people who don't want to spend too much time looking for the perfect outfit. These pieces are fashionable and will never go out of style.",
       "category": {
         "id": 3,
-        "nama": "Cupboard"
+        "nama": "Lemari"
       }
     }
   ],
-  "basket": [],
-  "order": []
+  "keranjang": [],
+  "pesanan": []
 }
