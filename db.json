@@ -2,7 +2,7 @@
   "categories": [
     {
       "id": 1,
-      "nama": "Kursi"
+      "nama": "Chair"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "description": "The White Aesthetic Chair is a sleek, modern design that would look great in any modern home. The white, curved seat is covered in soft, velvety fabric that is both durable and easy to clean. The chair is also comfortable, with a soft backrest and headrest. It is designed to be lightweight and easy to move around, making it perfect for any room in the house.",
       "category": {
         "id": 1,
-        "nama": "Kursi"
+        "nama": "Chair"
       }
     },
     {
@@ -39,7 +39,7 @@
       "description": "The chair is a bright and cheerful red, with a white trim. It is made of lightweight metal and plastic, with a seat and backrest. The seat is curved and the backrest is slightly curved, with no armrests. The chair is very lightweight and portable, and it can be folded up for easy storage.",
       "category": {
         "id": 1,
-        "nama": "Kursi"
+        "nama": "Chair"
       }
     },
     {
@@ -53,7 +53,7 @@
       "description": "This durable sofa is made of faux leather, and can be ordered in either a brown or black color. It has a modern, yet cozy design, and has an ergonomic design that makes it ideal for lounging. The sofa has a reclining back, and is upholstered with a plush fabric. The reclining back can be reclined up to 125 degrees, and the sofa also has a headrest that can be adjusted to your preferred height. The sofa is also built with a durable frame that will last for years to come.",
       "category": {
         "id": 1,
-        "nama": "Kursi"
+        "nama": "Chair"
       }
     },
     {
@@ -67,7 +67,7 @@
       "description": "This brown recliner is the perfect place to relax and watch your favorite TV show. The recliner has a 360 degree swivel, meaning you can get the perfect angle no matter where you are sitting. The chair is made of a durable microfiber that is easy to clean and resistant to stains. With an armless design, this chair is a perfect fit for your home.",
       "category": {
         "id": 1,
-        "nama": "Kursi"
+        "nama": "Chair"
       }
     },
     {
@@ -81,7 +81,7 @@
       "description": "Designers have long been attracted to the elegance of wood. Minimalist Wood Chair embraces this quality by providing a sleek and timeless piece that is both comfortable and beautiful. The chair's clean lines provide a simple and inviting space for rest and relaxation. The chair is crafted from sustainable beech wood, which provides a warm, rich texture. The chair's durability is ensured by its heavy-duty steel frame. Minimalist Wood Chair will be a perfect addition to any space, whether it be an office, living room, or bedroom.",
       "category": {
         "id": 1,
-        "nama": "Kursi"
+        "nama": "Chair"
       }
     },
     {
