@@ -6,11 +6,11 @@
     },
     {
       "id": 2,
-      "name": "Meja"
+      "name": "Table"
     },
     {
       "id": 3,
-      "name": "Lemari"
+      "name": "Cupboard"
     }
   ],
   "products": [
@@ -95,7 +95,7 @@
       "description": "White Marble Table Elegant and versatile, this table is made of premium marble with a white marble finish. With a timeless look, this table will be a centerpiece in any room. This table is a beautiful, yet functional piece of furniture that will be a great addition to any room.",
       "category": {
         "id": 2,
-        "name": "Meja"
+        "name": "Table"
       }
     },
     {
@@ -109,7 +109,7 @@
       "description": "With a sleek and modern design, this work table is perfect for any office or home office. The table features a durable metal frame with a sleek, low-profile top and a black frame. The table is easy to assemble and is perfect for any workspace.",
       "category": {
         "id": 2,
-        "name": "Meja"
+        "name": "Table"
       }
     },
     {
@@ -123,7 +123,7 @@
       "description": "Aesthetic Arabian Table The Aesthetic Arabian Table is a modern-day twist on the traditional Middle Eastern table. Featuring a high-quality tempered glass top, this table is perfect for use in a modern living room or as a side table. With a sleek black frame and decorative glass-topped tabletop, this table offers a great space for display and for storage. It also features a storage drawer for keeping remotes, books, and other small items. This table is made of tempered glass, so it is durable and can withstand any bumps or knocks. It is easy to clean and maintain, and its elegant design is sure to make it the centerpiece of any room.",
       "category": {
         "id": 2,
-        "name": "Meja"
+        "name": "Table"
       }
     },
     {
@@ -137,7 +137,7 @@
       "description": "The modern white desk table is perfect for a small home office. The white table features a curved shape and sleek lines. The table top is a smooth surface for typing and organizing, and it has a shelf for storage. The shelf is great for storing books, office supplies, and other items. The table has a minimalist design that complements any style of furniture. The desk is perfect for any room, and it can be used as a workspace or as a dining table.",
       "category": {
         "id": 2,
-        "name": "Meja"
+        "name": "Table"
       }
     },
     {
@@ -151,7 +151,7 @@
       "description": "This is a beautifully crafted table made from sustainable, plantation-grown wood. It features a modern design that can be used in any space. The wood is finished with a natural varnish, which will protect the wood and provide a warm, inviting glow.",
       "category": {
         "id": 2,
-        "name": "Meja"
+        "name": "Table"
       }
     },
     {
@@ -165,7 +165,7 @@
       "description": "White Wood wardrobe Do you have a place to store your clothes but need a place to put your other items? The White Wood wardrobe is the perfect solution. It's the perfect size for all of your clothes and with the 5 drawers, you'll have plenty of space for all of your other items.",
       "category": {
         "id": 3,
-        "name": "Lemari"
+        "name": "Cupboard"
       }
     },
     {
@@ -179,7 +179,7 @@
       "description": "The Djati Wood Wardrobe is a modern, chic, and functional storage solution for any bedroom. It has six spacious drawers and two shelves for storage. The drawers are made of birch veneer and the shelves are made of MDF. The Djati Wood Wardrobe is available in two colors: black and white.",
       "category": {
         "id": 3,
-        "name": "Lemari"
+        "name": "Cupboard"
       }
     },
     {
@@ -193,7 +193,7 @@
       "description": "Aesthetic Minimalist Wardrobe Be a minimalist with your wardrobe! With this pack, you will receive a variety of tops, bottoms, and shoes. This pack is perfect for people who don't want to spend too much time looking for the perfect outfit. These pieces are fashionable and will never go out of style.",
       "category": {
         "id": 3,
-        "name": "Lemari"
+        "name": "Cupboard"
       }
     }
   ],
