@@ -16,7 +16,7 @@
   "products": [
     {
       "id": 1,
-      "kode": "I-01",
+      "code": "I-01",
       "name": "White Aesthetic Chair",
       "price": 200000,
       "is_ready": true,
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "kode": "I-02",
+      "code": "I-02",
       "name": "Minimalist Lounge Chair",
       "price": 150000,
       "is_ready": true,
@@ -44,7 +44,7 @@
     },
     {
       "id": 3,
-      "kode": "I-03",
+      "code": "I-03",
       "name": "Sofa Empuk Banget",
       "price": 335000,
       "is_ready": true,
@@ -58,7 +58,7 @@
     },
     {
       "id": 4,
-      "kode": "I-04",
+      "code": "I-04",
       "name": "Exclusive Chair Brown",
       "price": 250000,
       "is_ready": true,
@@ -72,7 +72,7 @@
     },
     {
       "id": 5,
-      "kode": "I-05",
+      "code": "I-05",
       "name": "Minimalist Wood Chair",
       "price": 355000,
       "is_ready": true,
@@ -86,7 +86,7 @@
     },
     {
       "id": 6,
-      "kode": "I-06",
+      "code": "I-06",
       "name": "White Marble Table",
       "price": 450000,
       "is_ready": true,
@@ -100,7 +100,7 @@
     },
     {
       "id": 7,
-      "kode": "I-07",
+      "code": "I-07",
       "name": "Minimalist Work Table",
       "price": 250000,
       "is_ready": true,
@@ -114,7 +114,7 @@
     },
     {
       "id": 8,
-      "kode": "I-08",
+      "code": "I-08",
       "name": "Aesthetic Arabian Table",
       "price": 800000,
       "is_ready": true,
@@ -128,7 +128,7 @@
     },
     {
       "id": 9,
-      "kode": "I-09",
+      "code": "I-09",
       "name": "White Desk Table",
       "price": 650000,
       "is_ready": true,
@@ -142,7 +142,7 @@
     },
     {
       "id": 10,
-      "kode": "I-10",
+      "code": "I-10",
       "name": "Minimalist Wood Table",
       "price": 485000,
       "is_ready": true,
@@ -156,7 +156,7 @@
     },
     {
       "id": 11,
-      "kode": "I-11",
+      "code": "I-11",
       "name": "White Wood wardrobe",
       "price": 1500000,
       "is_ready": true,
@@ -170,7 +170,7 @@
     },
     {
       "id": 12,
-      "kode": "I-12",
+      "code": "I-12",
       "name": "Djati Wood Wardrobe",
       "price": 2000000,
       "is_ready": true,
@@ -184,7 +184,7 @@
     },
     {
       "id": 13,
-      "kode": "I-13",
+      "code": "I-13",
       "name": "Aesthetic Minimalist Wardrobe",
       "price": 3500000,
       "is_ready": true,
