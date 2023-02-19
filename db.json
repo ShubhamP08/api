@@ -197,6 +197,6 @@
       }
     }
   ],
-  "keranjang": [],
-  "pesanan": []
+  "basket": [],
+  "order": []
 }
